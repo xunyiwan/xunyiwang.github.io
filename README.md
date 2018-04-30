@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Xunyi Wang
 
 I am a third-year PhD student in the Department of Management Science and Systems(MS&S) at School of Mangement, University at Buffalo, Sate University New York.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
