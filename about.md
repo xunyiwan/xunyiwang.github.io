@@ -9,7 +9,9 @@ analysis and user generated contents. My research aims at deriving insights to f
 various actors in IT-enabled platforms. In particular, I combine econometric analyses, survey methods, and machine learning to
 study the relationships between digital content and engagement behaviors in business pages on social media.
 
-#### News and Highlights (since 2017)
+
+
+### News and Highlights (since 2017)
 
 04/2018: one paper accepted for presentation at AMCIS 2018.
 
