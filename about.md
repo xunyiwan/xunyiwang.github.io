@@ -9,11 +9,15 @@ analysis and user generated contents. My research aims at deriving insights to f
 various actors in IT-enabled platforms. In particular, I combine econometric analyses, survey methods, and machine learning to
 study the relationships between digital content and engagement behaviors in business pages on social media.
 
-### News and Highlights (since 2018)
+#### News and Highlights (since 2017)
 
-04/2018: Great news!
+04/2018: one paper accepted for presentation at AMCIS 2018.
 
 02/2018: Great news! Paper with Srikanth Parameswaran, Darshan Mahendra Bagul, Rajiv Kishore on the quadritic effect of
 objective informational support and emotional support on self-care behavior of HIV patients in a online HIV communtity (POZ)
 accepted for publication at Journal of the American Medical Informatics Association!
+
+10/2017: one paper accepted for presentation at AICIS 2017.
+
+
 
