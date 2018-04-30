@@ -19,7 +19,7 @@ study the relationships between digital content and engagement behaviors in busi
 objective informational support and emotional support on self-care behavior of HIV patients in a online HIV communtity (POZ)
 accepted for publication at Journal of the American Medical Informatics Association!
 
-10/2017: one paper accepted for presentation at AICIS 2017.
+10/2017: one paper accepted for presentation at ICIS 2017.
 
 
 
