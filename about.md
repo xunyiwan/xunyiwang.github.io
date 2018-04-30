@@ -10,7 +10,6 @@ various actors in IT-enabled platforms. In particular, I combine econometric ana
 study the relationships between digital content and engagement behaviors in business pages on social media.
 
 
-
 ### News and Highlights (since 2017)
 
 04/2018: One paper accepted for presentation at AMCIS 2018.
