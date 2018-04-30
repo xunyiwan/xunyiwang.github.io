@@ -12,6 +12,7 @@ study the relationships between digital content and engagement behaviors in busi
 ### News and Highlights (since 2018)
 
 04/2018: Great news!
+
 02/2018: Great news! Paper with Srikanth Parameswaran, Darshan Mahendra Bagul, Rajiv Kishore on the quadritic effect of
 objective informational support and emotional support on self-care behavior of HIV patients in a online HIV communtity (POZ)
 accepted for publication at Journal of the American Medical Informatics Association!
