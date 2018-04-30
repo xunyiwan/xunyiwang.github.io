@@ -13,15 +13,15 @@ study the relationships between digital content and engagement behaviors in busi
 
 ### News and Highlights (since 2017)
 
-04/2018: one paper accepted for presentation at AMCIS 2018.
+04/2018: One paper accepted for presentation at AMCIS 2018.
 
 03/2018: Research with Srikanth Parameswaran, Darshan Mahendra Bagul, Rajiv Kishore featured in UB Now.
 
-02/2018: Great news! Paper with Srikanth Parameswaran, Darshan Mahendra Bagul, Rajiv Kishore on the quadritic effect of
+02/2018: Paper with Srikanth Parameswaran, Darshan Mahendra Bagul, Rajiv Kishore on the quadritic effect of
 objective informational support and emotional support on self-care behavior of HIV patients in an online HIV communtity (POZ)
 accepted for publication at Journal of the American Medical Informatics Association!
 
-10/2017: one paper accepted for presentation at ICIS 2017.
+10/2017: One paper accepted for presentation at ICIS 2017.
 
 
 
