@@ -7,4 +7,3 @@ description: 302 Jacobs Management Center. Buffalo, NY 14260-4000
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
-gem "github-pages", group: :jekyll_plugins
