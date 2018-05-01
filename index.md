@@ -2,13 +2,6 @@
 layout: default
 title: Home
 ---
- 
-<head>
-				<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-				<title>Xunyi Wang</title>
-				<link rel="stylesheet" type="text/css" href="normalize.css"
-				media="screen">
-		        <style type="text/css">
     
 <img src="image/picture.jpg" alt="alt text" width="500px" height="500px">
 
