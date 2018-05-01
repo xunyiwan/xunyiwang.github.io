@@ -6,8 +6,7 @@ title: Research
 ## __Journal Publications__
 
 * Can online social support be detrimental in stigmatized chronic diseases? A quadratic model of the effects of informational and emotional support on self-care behavior of HIV patients (2018) 
- Xunyi Wang, Srikanth Parameswaran, Darshan Mahendra Bagul, Rajiv Kishore  
-___Journal of the American Medical Informatics Association (JAMIA)___, ocy012, https://doi.org/10.1093/jamia/ocy012
+ Xunyi Wang, Srikanth Parameswaran, Darshan Mahendra Bagul, Rajiv Kishore ___Journal of the American Medical Informatics Association (JAMIA)___, ocy012, https://doi.org/10.1093/jamia/ocy012
 
 
 ## __Conference Papers__
