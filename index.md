@@ -5,7 +5,7 @@ title: Home
 <html>
   <head>
     {% include head.html %}
-    {% seo %}
+    {% Xunyi Wang %}
   </head>
 </html>
 
