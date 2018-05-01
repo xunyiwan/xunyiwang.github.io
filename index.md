@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="image/picture.jpg" alt="alt text" width="100px" height="100px">
+<img src="image/picture.jpg" alt="alt text" width="300px" height="300px">
 
 I am a third-year PhD student in the Department of Management Science and Systems (MSS) ([IDSc](http://mgt.buffalo.edu/degree-programs/phd-in-management/science-systems/current-students.html){:target="_blank"})at School of Mangement, University at Buffalo, Sate University New York.
 
