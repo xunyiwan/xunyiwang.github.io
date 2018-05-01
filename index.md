@@ -9,7 +9,7 @@ I am a third-year PhD student in the Department of Management Science and System
 
 My research interests are in the areas of online health community, social media, social network analysis and extreme events rumor analysis. My research aims at deriving insights to how people interact with each other one the platform of social media (online community). In particular, I combine econometric analyses, survey methods, and machine learning to study the relationships between user generated content and human behaviors on social media. 
 
-Education:  
+__Education:  
 
 * Ph.D. in Management Information Systems. School of Mangement, University at Buffalo, Sate University of New York. (Expected graduating in 2020)
 * MA in Finance. School of Mangement, University at Buffalo, Sate University of New York. (2016)  
