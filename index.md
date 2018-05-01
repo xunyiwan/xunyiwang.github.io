@@ -2,12 +2,6 @@
 layout: default
 title: Home
 ---
-<html>
-  <head>
-    {% include head.html %}
-    {% Xunyi Wang %}
-  </head>
-</html>
 
 <img src="image/picture.jpg" alt="alt text" width="500px" height="500px">
 
