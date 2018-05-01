@@ -13,9 +13,9 @@ ___Journal of the American Medical Informatics Association (JAMIA)___, ocy012, [
 ## __Conference Papers__
 
 * "A Study of Factors in HIPAA Non-Compliant Behavior."  
-Joana Gaia, Xunyi Wang, Jennifer Basile, G.L. Sanders, David Murray.  
+Joana Gaia, Xunyi Wang, Jennifer Basile, G.L. Sanders, David Murray  
 Americas Conference on Information Systems (___AMCIS___), New Orleans, 2018
 
 * "Does Online Social Support Work in Stigmatized Chronic Diseases? A Study of the Impacts of Different Facets of Informational and Emotional Support on Self-Care Behavior in an HIV Online Forum."  
-Xunyi Wang, Srikanth Parameswaran, Darshan Mahendra Bagul, Rajiv Kishore.  
+Xunyi Wang, Srikanth Parameswaran, Darshan Mahendra Bagul, Rajiv Kishore  
 International Conference on Information Systems (___ICIS___), Seoul, Korea, 2017
