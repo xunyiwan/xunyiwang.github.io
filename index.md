@@ -11,5 +11,6 @@ My research interests are in the areas of online health community, social media,
 
 Education:  
 
-MA in Finance. School of Mangement, University at Buffalo, Sate University of New York. (2016)  
-BA in Applied Mathematics. Central South University (CSU), China (2014)
+* Ph.D. in Management Information Systems. School of Mangement, University at Buffalo, Sate University of New York. (Expected graduating in 2020)
+* MA in Finance. School of Mangement, University at Buffalo, Sate University of New York. (2016)  
+* BA in Applied Mathematics. Central South University (CSU), China (2014)
