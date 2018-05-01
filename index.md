@@ -7,7 +7,7 @@ title: Home
 
 I am a third-year PhD student in the Department of Management Science and Systems [(MSS)](http://mgt.buffalo.edu/degree-programs/phd-in-management/science-systems/current-students.html){:target="_blank"}  at School of Mangement, University at Buffalo, Sate University New York.
 
-My research interests are in the areas of online community, social media, social network analysis and user generated contents. My research aims at deriving insights to facilitate interactions and transactions among various actors in IT-enabled platforms. In particular, I combine econometric analyses, survey methods, and machine learning to study the relationships between digital content and engagement behaviors in business pages on social media.
+My research interests are in the areas of online health community, social media, social network analysis and extreme events rumor analysis. My research aims at deriving insights to how people interate with each other in social media (online community). In particular, I combine econometric analyses, survey methods, and machine learning to study the relationships between generated content and human behaviors in on social media. 
 
 Education:  
 
